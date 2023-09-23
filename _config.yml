@@ -42,7 +42,7 @@ features                                  :
     
   - title                                 : Reuse
     description                           : Add once. Use your saved locations when you need.
-    fontawesome_icon_name                 : arrow-rotate-right
+    fontawesome_icon_name                 : recycle
 
   - title                                 : Navigation
     description                           : Integrate your saved locations with popular navigation apps like Waze, Apple Maps, and more.
@@ -50,7 +50,7 @@ features                                  :
 
   - title                                 : Customize
     description                           : Set your saved locations with names, categories, and notes. Organize them for quick access and a personalized experience.
-    fontawesome_icon_name                 : pen-to-square 
+    fontawesome_icon_name                 : pen
 
   - title                                 : # New Feature Title
     description                           : # New Feature Description
